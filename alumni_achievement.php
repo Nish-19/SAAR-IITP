@@ -11,7 +11,7 @@
         <style>
             nav ul a{
                 color:#757575 !important;
-                font-weight: bold;
+                font-weight: italic;
             }
             nav .brand-logo{
                 color: #2BBBAD !important;
